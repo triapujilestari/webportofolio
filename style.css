@@ -13,6 +13,7 @@ nav {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    position: sticky;
     padding-top: 10px;
     padding-bottom: 10px;
     padding-right: 8%;
@@ -26,7 +27,7 @@ nav {
     letter-spacing: 1px;
     cursor: pointer;
 }
-header {
+.home1 {
     background-color: #05106d;
     position: sticky;
     top: 0;
