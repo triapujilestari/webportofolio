@@ -26,6 +26,15 @@ nav {
     letter-spacing: 1px;
     cursor: pointer;
 }
+header {
+    background-color: #05106d;
+    position: sticky;
+    top: 0;
+    z-index: 99;
+    color: aliceblue;
+    padding: 10px 0;
+    text-align: center;
+}
 span {
     color: red;
 }
